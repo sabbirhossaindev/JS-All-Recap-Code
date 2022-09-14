@@ -8,7 +8,8 @@ console.log(student); // { id: 100, phone: 1719228487, name: 'Sabbir' }
 console.log(student2); // { id: 104, phone: 1888559287, name: 'Nadim' }
 
 
-// ****jodi kno student er phoneNo ba property name speacik janta chaila. 3 upay object er cracter strick re/ toiry kora ****
+// ****jodi kno student er phoneNo ba property name speacik janta chaila.
+// 3 upay object er cracter strick re / toiry kora ****
 var student = {id:100, phone:1719228487, name:"Sabbir"};
 var student2 = { id:104, phone:1888559287, name:"Nadim"};
 

@@ -1,8 +1,7 @@
 // 1.5 function (return, parameter)
 
-// 
+// function explore...
 
-// programming example doubleIt {kon number ka double korta (+,-,*,/) sob kora jaba}
 function doubleIt(num){
     var result = num * 2;
     console.log(result);
