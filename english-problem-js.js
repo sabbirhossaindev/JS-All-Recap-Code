@@ -50,12 +50,13 @@
     3.3 history API
     3.fetch
 ----------------------------- Browser API -------------------------------
-4 Dragging:
+4 Dubagging:
     4.1 console tab
     4.2 source tab
     4.3 application tab
     4.4 Network tab
     4.5 Elements tab 
+------------------------------ Dubagging ---------------------------------
 5. Other :
     5.1 array; (map, forEach, filter, find)
     5.2 ternary operator (isActive ? showUser() : hideUser();)
