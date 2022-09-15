@@ -15,7 +15,7 @@ console.log(currentNumbers); // [ 23, 53, 87, 243, 22, 66 ]
 numbers.push(99)
 numbers.push(99)
 numbers.push(66)
-console.log(numbers); /*[
+console.log(numbers);  /*[
     23, 53, 87, 243,
     22, 99, 99,  66
   ]*/
