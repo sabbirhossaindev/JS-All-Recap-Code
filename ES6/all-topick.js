@@ -1,21 +1,4 @@
 /*
-1. Fundamentals:
-    1.1 variable (let, const) three type variable.
-    1.2 condition (>, <, >=, <=, ==, !=, ===, !==) &&, || , if-else....
-    1.3 array (declare, length, index, push, pop, indexOf, includes)...
-    1.4 loop (for loop, while loop)....
-    1.5 function (return, parameter)
-    1.6 object (property, including array, object)
----------------------------- Fundamentals -------------------------------
-1.5 basic data type:
-    1.5.1 string কি জিনিস।  স্ট্রিং এর উপরে কি লুপ চালানো যায়।
-     length, includes, indexOf, toUpperCase, toLowerCase, জানতেই হবে।
-      subString, concat জানলে ভালো।  string কি mutable নাকি immutable 
-    1.5.2 number সম্পর্কে জানতেই হবে। integer, float কোনগুলা।
-    1.5.3 true false কখন ইউজ করে
-    1.5.4 truthy falsy
-    1.5.5 null এবং undefined কি জিনিস।
-------------------------------- basic data type ------------------------------
 2. ES6:
     2.1 template string ``
     2.2 spread (...)
