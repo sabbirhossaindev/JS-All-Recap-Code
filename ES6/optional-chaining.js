@@ -4,7 +4,7 @@ const customer = {
     name: "Carl",
     details: { age: 82 }
   };
-  const customerCity = customer?.city ?? "Unknown city";
+  const customerCity = customer?.city ?? "Unknown city"; // value set
 console.log(customerCity); // Unknown city
   
 const adventurer = {
