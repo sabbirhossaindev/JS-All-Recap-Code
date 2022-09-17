@@ -42,7 +42,29 @@ output:-
   75025
 ]
 */
+// creating a multiplication table of function 13 problem 1;
+function multiplication(number) {
+    for(let i = 1; i <= 10; i++) {
+        // multiply i with number
+        let result = i * number;
+        // display the result
+        console.log(`${number} * ${i} = ${result}`);
+    }
+}
+multiplication(13);
 
+/*
+13 * 1 = 13
+13 * 2 = 26
+13 * 3 = 39
+13 * 4 = 52
+13 * 5 = 65
+13 * 6 = 78
+13 * 7 = 91
+13 * 8 = 104
+13 * 9 = 117
+13 * 10 = 130
+*/
 // Homework: 1
 // write a function that will take 3 numbers will return the max number
 // Write a function that will take 3 parameters and will return the min number
