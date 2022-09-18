@@ -8,7 +8,7 @@ if(first === second){
 }
 else{
     console.log('values are not equal');
-}
+} // values are not equal
 
 // type coercion
 // type conversion
