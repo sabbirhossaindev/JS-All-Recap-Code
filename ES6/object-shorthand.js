@@ -12,6 +12,22 @@
     // shortcut
     const obj1 = { name, age };
 console.log(obj1);  // {name: 'sabbir', age: 20}
+
+
+// Object property shorthand
+const names = 'Raj'
+const ages = 20
+const location = 'India'
+
+// User with ES6 shorthand
+// property
+const user = {
+	names,	
+	ages,
+	location
+}
+
+console.log(user); // { names: 'Raj', ages: 20, location: 'India' }
     
 // object declaration
 var student = {
@@ -66,15 +82,4 @@ mouse 1
 pen 25
 shoes 2 */
 
-var keyes = [ 'books', 'sunglass', 'keyboard', 'mouse', 'pen', 'shoes' ];
-for(var i = 0; i < keyes.length; i++){
-    var propertyName = keyes[i];
-    var propertyValue = shoppingCart[propertyName];
-    console.log(propertyName, propertyValue);
-}
 
-// for in loop
-for(var propertyName in shoppingCart){
-    const value = shoppingCart[propertyName];
-    console.log(propertyName, value);
-}
