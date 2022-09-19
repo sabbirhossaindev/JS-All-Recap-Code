@@ -1,4 +1,5 @@
 /*
+The JavaScript spread operator (...) allows us to quickly copy all or part of an existing array or object into another array or object.
 2.2 spread (...)
         2.2.1 copy an array then add a new element to an array.
         2.2.2 use filter to remove an element from an array.
