@@ -1,38 +1,20 @@
+// Arguments holi array like object aita kintu object na....
+
 function add(num1, num2) {
     console.log(num1, num2)
-    console.log(arguments); // Arguments holi array like object aita kintu object na....
+    console.log(arguments);
 }
 add(12, 13, 44, 76, 73, 64, 98, 99);
-
-
-// quiz explore;
-
-function compare(a, b) {
-    if (a == b) {
-        return true;
-    }
-    else {
-        return false;
-    }
+/*
+12 13
+[Arguments] {
+  '0': 12,
+  '1': 13,
+  '2': 44,
+  '3': 76,
+  '4': 73,
+  '5': 64,
+  '6': 98,
+  '7': 99
 }
-const result = compare(15, "15");
-console.log(result);
-
-/* 
-function compare(a, b) {
-    if (a.toString() == b) {
-        return true;
-    }
-    else {
-        return false;
-    }
-}
-const result = compare(15, 15);
-console.log(result);
-
 */
-console.log('123' + 123);
-
-let a = 'hi'
-let b = 'there'
-console.log(a + b);
