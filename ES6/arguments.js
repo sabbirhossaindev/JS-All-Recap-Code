@@ -1,4 +1,5 @@
 // Arguments holi array like object aita kintu object na....
+// arguments is an Array-like object accessible inside functions that contains the values of the arguments passed to that function.
 
 function add(num1, num2) {
     console.log(num1, num2)
