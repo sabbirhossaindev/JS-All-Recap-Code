@@ -1,4 +1,5 @@
 /*
+An arrow function expression is a compact alternative to a traditional function expression, but is limited and can't be used in all situations.
 2.3 arrow function(const myArrow = () => console.log();)
         2.3.1 no parameter()
         2.3.2 single parameter.
