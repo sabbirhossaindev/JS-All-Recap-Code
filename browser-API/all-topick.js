@@ -4,5 +4,6 @@
     3.2 location API
     3.3 history API
     3.fetch
+    4. JSON => stringify, parse
 ----------------------------- Browser API -------------------------------
 */
