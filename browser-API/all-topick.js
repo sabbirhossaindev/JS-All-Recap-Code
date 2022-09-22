@@ -5,5 +5,6 @@
     3.3 history API
     3.fetch
     4. JSON => stringify, parse
+    4. forEach or map
 ----------------------------- Browser API -------------------------------
 */
