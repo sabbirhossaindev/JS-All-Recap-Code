@@ -1,1 +1,1 @@
-console.log('w8')
+console.log('w8');
